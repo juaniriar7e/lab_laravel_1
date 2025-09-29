@@ -65,6 +65,14 @@ Laravel utiliza el patrón MVC para organizar el código de manera estructurada:
 ---
 
 ## Screenshots del Laboratorio
+![Formulario de Login](screenshots/captura1.png)
+
+
+![Formulario de Registro](screenshots/captura2.png)
+*Formulario de registro de nuevos usuarios*
+
+![Dashboard después del Login](screenshots/captura3.png)
+*Formulario de inicio de sesión con validaciones integradas*
 
 ---
 
